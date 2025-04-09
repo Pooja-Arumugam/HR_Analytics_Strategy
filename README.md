@@ -1,5 +1,3 @@
-# HR_Analytics_Strategy
-
 # HR Analytics Strategy
 
 This project focuses on analyzing Human Resources (HR) data to uncover trends and patterns that can drive strategic decisions in employee retention, hiring, and workforce planning. The goal is to assist organizations in leveraging data for proactive HR management.
