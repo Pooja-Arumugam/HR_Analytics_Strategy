@@ -7,7 +7,7 @@ This project focuses on analyzing Human Resources (HR) data to uncover trends an
 To explore HR-related data and build strategic insights that help in:
 - Identifying factors influencing employee attrition
 - Understanding workforce composition
-- Recommending data-driven solutions to improve employee engagement and retention
+- Recommending data-driven solutions to improve employee engagement and retention.
 
 ## 📁 Dataset
 
